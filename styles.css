@@ -5,9 +5,9 @@ html {
 
 /* styles for the body of the site */
 body {
-  width: 60%;
+  width: 70%;
   background-color: orange;
-  border: 5px solid black;
+  border: 5px red;
   padding: 0 20px 20px 20px;
   margin-top: 25px;
   margin-left: auto;
